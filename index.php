@@ -5,4 +5,4 @@
  * Date: 2016/4/8
  * Time: 16:10
  */
-echo "hello";
+echo "First Use Gitgub.";
